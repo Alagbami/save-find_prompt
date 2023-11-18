@@ -25,7 +25,7 @@ const UserProfile = ({ params }) => {
   return (
     <Profile
       name={userName}
-      desc={`This is ${userName}'s personalized profile page. On this Profile page you can only Edit and Delete any of ${userName}'s previous Post `}
+      desc={`On this page, you can only find all that ${userName} has posted. To save, share, and create your own posts, kindly sign in to your account and share them with your colleagues at work.`}
       data={userPosts}
     />
   );
