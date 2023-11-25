@@ -80,7 +80,7 @@ const CreatePrompt = () => {
       if (response.ok) {
         router.push("/");
         // Trigger revalidation to fetch the updated prompts
-        router.replace("/create-prompt");
+        router.replace("/");
       }
     } catch (error) {
       console.log(error);
