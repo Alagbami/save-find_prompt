@@ -8,6 +8,6 @@ Save&Find Prompts was initially created for everyone in Customer Value Managemen
 - search by username
 ## visitor can also create acct 
 - must have a google
-- without google acct visitor can login to save&find
+- without google acct visitor cant login to save&find
 
 ## pay us a visit https://save-find-prompt.vercel.app/
